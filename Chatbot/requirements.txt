@@ -5,3 +5,5 @@ streamlit
 dotenv
 langgraph-checkpoint-sqlite
 langchain-community
+faiss-cpu
+pypdf
